@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a . . zz} {a . .} | tr '' '\n' |  grp -v "00"
