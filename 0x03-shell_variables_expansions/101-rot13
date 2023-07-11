@@ -1,0 +1,2 @@
+#!/bin/bash
+tr Á-Za-z' 'N-zA-Mn-za-M'
