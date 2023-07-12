@@ -1,2 +1,2 @@
 #!/bin/basg
-tr -d "Cc"
+tr -d "cC"
